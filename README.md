@@ -2,7 +2,7 @@
 
 Docker user **felipeapompeu**
 
-[Desafio Golang](https://hub.docker.com/repository/docker/felipeapompeu/fullcycle)
+[Golang challenge](https://hub.docker.com/repository/docker/felipeapompeu/fullcycle)
 
 For the node challenge follow this steps:
 
